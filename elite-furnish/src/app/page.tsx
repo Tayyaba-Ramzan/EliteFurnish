@@ -67,7 +67,7 @@ const page = () => {
           </div>
           <div className='relative w-[285px] h-[446px] bg-[#F4F5F7] mx-auto'>
             <Image
-              src="/images/chair.svg"
+              src="/images/chair.png"
               alt="chair-img"
               width={285}
               height={301}
