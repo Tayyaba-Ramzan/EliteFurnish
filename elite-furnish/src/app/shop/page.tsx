@@ -192,7 +192,7 @@ const ShopPage = () => {
             <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 mx-auto max-w-screen-xl mt-8'>
                 <div className='w-full h-[446px] bg-[#F4F5F7] mx-auto flex flex-col items-center'>
                     <Image
-                        src={"/images/table.svg"}
+                        src={"/images/table.png"}
                         alt='table-img'
                         width={285}
                         height={301}
@@ -250,7 +250,7 @@ const ShopPage = () => {
             <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 mx-auto max-w-screen-xl mt-8'>
                 <div className='w-full h-[446px] bg-[#F4F5F7] mx-auto flex flex-col items-center'>
                     <Image
-                        src={"/images/table.svg"}
+                        src={"/images/table.png"}
                         alt='table-img'
                         width={285}
                         height={301}
