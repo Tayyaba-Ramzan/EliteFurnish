@@ -221,7 +221,7 @@ const ShopPage = () => {
 
                 <div className='w-full h-[446px] bg-[#F4F5F7] mx-auto flex flex-col items-center'>
                     <Image
-                        src={"/images/sofa.svg"}
+                        src={"/images/sofa.png"}
                         alt='sofa-img'
                         width={285}
                         height={301}
@@ -236,7 +236,7 @@ const ShopPage = () => {
 
                 <div className='w-full h-[446px] bg-[#F4F5F7] mx-auto flex flex-col items-center'>
                     <Image
-                        src={"/images/multi-sofa.svg"}
+                        src={"/images/multi-sofa.png"}
                         alt='multi-sofa-img'
                         width={285}
                         height={301}
@@ -280,7 +280,7 @@ const ShopPage = () => {
 
                 <div className='w-full h-[446px] bg-[#F4F5F7] mx-auto flex flex-col items-center'>
                     <Image
-                        src={"/images/sofa.svg"}
+                        src={"/images/sofa.png"}
                         alt='sofa-img'
                         width={285}
                         height={301}
@@ -295,7 +295,7 @@ const ShopPage = () => {
 
                 <div className='w-full h-[446px] bg-[#F4F5F7] mx-auto flex flex-col items-center'>
                     <Image
-                        src={"/images/multi-sofa.svg"}
+                        src={"/images/multi-sofa.png"}
                         alt='multi-sofa-img'
                         width={285}
                         height={301}
